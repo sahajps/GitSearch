@@ -1,0 +1,2122 @@
+{
+    "1944612814460748070": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Targets the tweet\u2019s core claim and gives mostly correct context that Chelsea\u2019s official post shows Trump, but adds questionable/weakly sourced specifics (\"AI-generated,\" \"trophy text artifacts,\" and an unrelated Wikipedia link) instead of the stronger fact-check source."
+    },
+    "1944941486501716373": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 2,
+        "overall_comment": "It targets the right claim and links to Chelsea\u2019s post, but it misstates what the fact-check says and is internally confusing about whether Trump is in the edited image, reducing reliability and usefulness."
+    },
+    "1937227111497888048": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The AI note addresses the core implication that the rooftop missiles are newly deployed, but provides minimal context and relies on a single tweet link rather than a durable, detailed source like the human note."
+    },
+    "1931808904754979087": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note addresses the core implication that there are no ICE raids in Texas, but it relies on an unhelpful/unclear Grok share link and lacks specific, verifiable examples like the reference note provides."
+    },
+    "1947945040258510982": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note correctly points out the English requirement is long-standing federal law, but wrongly dates it to 1998 and adds an unclear, likely irrelevant claim about state-level enforcement, reducing factual alignment and usefulness."
+    },
+    "1921797828025737664": {
+        "functional_errors": 1,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is truncated/placeholder-filled and largely restates the tweet without adding the key context (remarks are from 2016; Burns is not a current ambassador). It lacks reliable sourcing and does not correct the misleading framing."
+    },
+    "1935602630040105097": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The note misses the main correction that no BRICS currency/banknotes exist and incorrectly treats the item as a real BRICS banknote. It also adds unsupported claims (date, trade bloc comparison) and relies only on the tweet link rather than credible sources."
+    },
+    "1945288617405853785": {
+        "functional_errors": 1,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note contains major functional issues (missing/broken citations and irrelevant meta commentary) and makes key factual errors (claims PQ failed and an Epstein-release vote occurred), contradicting the reference note and undermining usefulness."
+    },
+    "1950575881174573189": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The note somewhat counters the tweet by indicating Republicans drew the map, but it lacks the key context from the reference note (both maps, partisan seat impacts) and the cited source doesn\u2019t clearly support the specific claim."
+    },
+    "1932930910808105458": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note addresses the idea that Massie voted in Rules Committee, but it conflicts with the reference note\u2019s key context (vote hasn\u2019t happened; Massie said he\u2019ll vote yes) and omits that crucial correction."
+    },
+    "1958299172915876322": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the false implication that Crockett was \u201cfired\u201d and provides relevant redistricting context with a strong CBS source. Minor issues: slightly speculative phrasing and bracketed URL formatting, plus an extra source that doesn\u2019t specifically substantiate the redistricting claim."
+    },
+    "1941663614160536032": {
+        "functional_errors": 5,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note is well-formed but addresses a different issue (the airport\u2019s name) instead of the photo\u2019s subject and correct opening date of the TWA Flight Center, so it doesn\u2019t effectively refute the 1956 claim."
+    },
+    "1949983870998265939": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Targets the tweet\u2019s main claim and adds useful context, but introduces questionable/unsupported details (race description, victim identity, low-quality Biography source) that reduce factual reliability."
+    },
+    "1951269513137123656": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Generally addresses the tweet\u2019s \u201cair travel has been a disaster since Trump\u201d claim using NTSB context, but adds a turbulence/policy assertion and a debatable \u201csafest in 20 years\u201d claim not reflected in the human note."
+    },
+    "1963391899743461464": {
+        "functional_errors": 5,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note largely shifts to a different topic (Massie leading a document-release effort) instead of addressing whether Massie tweeted about Epstein during the Biden administration, and it does not match or support the referenced Grok correction."
+    },
+    "1942603861098721327": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note attacks the author and speculates about motives, while failing to address the specific disaster-funding timeline and Texas denial details in the reference note. It cites an irrelevant personal website and provides no verifying evidence."
+    },
+    "1940876275037753694": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses the claim but misframes it as simply \u201cfalse,\u201d omits the key context of Medicaid unwinding/continuous enrollment ending, and incorrectly says no data supports 25M losing coverage. One cited source is not appropriate (@grok)."
+    },
+    "1956425299467420086": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses the claim by stating Obama did receive the 2009 Nobel Peace Prize, but it adds editorial framing and relies on a single low-quality/partisan source rather than authoritative Nobel or wire sources, omitting key confirming context."
+    },
+    "1962713514440618398": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Directly addresses the tweet\u2019s implication by explaining the standard scheduling convention and uses the same supporting source; slightly more general than the reference note but still sufficient and clear."
+    },
+    "1948110924931354982": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note doesn\u2019t address the actual context of Frost\u2019s remark (a joke tied to a WSJ/Epstein-files story) and instead pivots to unrelated social media accounts, making it largely unhelpful and factually misaligned."
+    },
+    "1938600016509051343": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note correctly says the ruling didn\u2019t end birthright citizenship, but it misses the key context that the Court ruled on nationwide injunction scope rather than the 14th Amendment/EO constitutionality, and its sourcing is weak/misaligned."
+    },
+    "1961592884333088994": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Directly refutes the tweet\u2019s core claim and provides relevant context about the pre-2012 transgender policy, but relies on a weaker Wikipedia citation and omits key specifics from the reference note (ban required natural-born females; first openly trans contestant in 2018)."
+    },
+    "1955999995850522919": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note generally addresses the key claim (not autonomous; DUI investigated) but adds a potentially misleading recall/unintended-acceleration angle not established in the reference note, and its sourcing differs from the official CHP statement link."
+    },
+    "1956076819809230965": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "It addresses the tweet\u2019s claim by stating Newsom did take questions, but the sources differ from the human note and include an unverified extra claim about a separate JANM rally event, reducing factual alignment and reliability."
+    },
+    "1956048193910952247": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses inflation and tariff totals but misses the tweet\u2019s central misconception that tariffs are paid by other countries. It adds potentially relevant figures but doesn\u2019t provide the key context or sources about who actually pays tariffs."
+    },
+    "1945326461533016273": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note generally targets the tweet\u2019s \u201cMamdani momentum withered\u201d framing, but it introduces unsupported/possibly incorrect specifics (e.g., Mamdani not endorsing) and relies on weaker sources than the human note. It partially captures the shared-progressive-endorsement context but doesn\u2019t mirror the reference note\u2019s key point about the article contradicting its own framing."
+    },
+    "1938232142917509400": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "The note correctly flags the viral \u201cwall message\u201d as not something Sheinbaum said and cites Reuters, but adds extra claims (tariffs, military deployment, extraditions) not in the tweet or reference note, making it less aligned and less complete than it could be."
+    },
+    "1962703728806367565": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s core claim (citizenship) and provides relevant sources, but it omits the key specific detail from the reference note (naturalized in 2009) and adds extra, less-needed context about rulings."
+    },
+    "1945513505941241860": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, well-written, and directly corrects the tweet\u2019s implication by noting Trump originally appointed Powell while Biden later reappointed him; source supports the reappointment claim. Slightly speculative in asserting Trump was referring specifically to the reappointment."
+    },
+    "1941850081965035967": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "The note correctly identifies the tweet as a misquote and clarifies Bessent said it is part of Trump\u2019s agenda. It\u2019s generally clear and relevant, though it could quote the exact corrected wording and uses a different source than the reference note."
+    },
+    "1921220993101525318": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 3,
+        "overall_comment": "The note generally targets the tweet\u2019s implied claim of a successful peace/ceasefire by adding context about alleged ceasefire violations, but it adds a tangential claim about Pakistan\u2019s military influence and uses sources that may not clearly substantiate the specific drone-violation assertions as well as the reference note does."
+    },
+    "1953769442183188542": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Clear and well-formatted, directly addressing the tweet\u2019s claim by distinguishing the Finance Act\u2019s rebate from the separate Income Tax Bill. Minor factual/phrasing issue: it asserts the bill was withdrawn \u201cafter passage of the Finance Act,\u201d which isn\u2019t supported by the provided reference."
+    },
+    "1931848461718258004": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "The AI note correctly identifies the key issue (old 2020 footage being presented as current), but adds a loosely supported aside about \u201cpeaceful protests\u201d criticism and lacks the specific corroborating details (e.g., car numbers/NBC source) from the human note."
+    },
+    "1938606745741570259": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear and well-formatted, and it correctly challenges the tweet\u2019s claim that the order is already in effect. However, it diverges from the reference note by attributing the 30-day delay to the EO itself and omits the Court\u2019s role in lifting the nationwide pause and ongoing litigation context."
+    },
+    "1937109998510752167": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Addresses the tweet\u2019s core \u201cDemocrats had no wars\u201d claim, but has broken/low-quality sources (including an incomplete URL) and some specifics not aligned with the reference note\u2019s key facts (e.g., bomb counts, wider set of Clinton/Biden actions)."
+    },
+    "1923202074323406945": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Clear and readable, but it shifts from the specific cited '86 46' post in the reference note to a generic definition of '86' and adds legal-analysis claims not supported by the provided source."
+    },
+    "1942935474940555384": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note cites an 8-1 decision but mischaracterizes the case as about appointments/reassignment and relies on a single secondary source, omitting the key context that liberal justices joined the majority and Sotomayor wrote a concurrence rebutting the dissent."
+    },
+    "1947818890584588548": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the confusion between Ferdinand Marcos and Ferdinand Marcos Jr, but uses a campaign/personal site rather than a more neutral, authoritative source and omits the father/1989 context highlighted in the reference note."
+    },
+    "1941113475281068161": {
+        "functional_errors": 1,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is poorly formatted with placeholder/nonfunctional sources, misidentifies the content as Iranian Sharia death-penalty guidance, and contradicts the human note\u2019s context (a nonviolent religious response with no Trump reference). It fails to address the tweet\u2019s implied claim and is not suitable as a Community Note."
+    },
+    "1922303895789044203": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note drifts from the key context (the clip is from 2021) and instead cites unrelated 2024 bike footage plus an irrelevant medical paper. Sources and facts don\u2019t align with the reference note, reducing usefulness."
+    },
+    "1936743361085378662": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Directly addresses the core claim and is readable, but relies on weak/unclear sourcing (Grok, unrelated tweet) and omits the key official confirmations cited in the human note (JCS route briefing and PIB fact-check)."
+    },
+    "1940020895814209946": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is vague and doesn\u2019t address the specific claim about Barron Trump\u2019s citizenship or provide supporting sources; it relies on the tweet\u2019s t.co link and adds little verifiable context."
+    },
+    "1938789956165726382": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the core false claim that a U.S. embassy in Iran issued an advisory, and provides broadly correct context. However, sources are weaker/less appropriate (Google search, Wikipedia) and the key official reference link differs from the human note."
+    },
+    "1930835528422670803": {
+        "functional_errors": 2,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is too vague, doesn\u2019t address the specific claim about the video being a fake/satire attributed to Vivek Ramaswamy, and provides only an unverifiable short URL with no supporting context."
+    },
+    "1956666571893469507": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear and well-formatted, and it correctly notes the quote/video is from 2018. However, it adds an arguably incorrect claim that it doesn\u2019t pertain to a Putin meeting and lacks the stronger corroborating sources used in the human note."
+    },
+    "1960025719204954415": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Addresses the core claim that 200,000 drivers were stripped of careers, but uses placeholder sources and adds an unsupported/irrelevant 2024 clearinghouse point; missing the key context that the pause affects only new CDL visas, not existing drivers."
+    },
+    "1944453881477357833": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Clear, well-formatted note that generally addresses the implication that the photographer had to \u201cknow\u201d to use extreme settings, but it differs from the reference by implying the shot was frozen with a fast shutter rather than explaining the elongation from typical outdoor settings."
+    },
+    "1924618447469633873": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Addresses the tweet\u2019s claim by noting suppressors are already federally legal and regulated, but adds potentially incorrect specifics (e.g., \u201c42 states\u201d and tax-removal details) and cites a manufacturer source, reducing factual alignment and completeness versus the reference note."
+    },
+    "1937422051125624915": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 3,
+        "overall_comment": "Addresses the implied claim that JFK couldn\u2019t have a Western Wall photo by noting control/visit timing, but includes questionable/irrelevant sourcing and an inaccurate claim about Nixon being the first president to visit Israel."
+    },
+    "1930776825472414087": {
+        "functional_errors": 3,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note goes beyond the needed context (it\u2019s a parody) and asserts it was \u201cverified as fake\u201d with sources that don\u2019t substantiate that claim; it also reuses the same t.co link without clear support."
+    },
+    "1929297294358139364": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note shifts away from the tweet\u2019s core treaty-visibility claim and introduces unsupported/legal assertions. It contradicts the reference note and relies on weak/mismatched sources, making it largely unhelpful."
+    },
+    "1929985911682478217": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note largely shifts to tangential claims about DOGE and tax distribution and fails to address the key dispute: CBO estimates the bill increases debt by about $5T. Several assertions are vague/unsourced as written and don\u2019t align with the provided reference sources."
+    },
+    "1940821257504936132": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note uses broken/placeholder URLs and adds speculative commentary instead of directly correcting the specific '5,000 H1B visas in 2025' claim with the USCIS breakdown. It omits the key verified counts from the human note, reducing usefulness."
+    },
+    "1958669033043103982": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses that the 55M figure is global, but it mischaracterizes the tweet\u2019s implied context (U.S. vs Canada), lacks key specifics from the reference (U.S. visa holders and visa types), and cites a source that may not clearly support the stated claim."
+    },
+    "1935951901729919038": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The AI note generally addresses the core issue (no verification that Sydney Sweeney made this statement) but adds tangential commentary about satire and lacks the direct, specific sourcing shown in the human note."
+    },
+    "1943083551400005987": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note appropriately challenges the tweet\u2019s \u201cstrong Labour seat\u201d framing, but it cites the wrong/older constituency and omits key boundary-change context from the human note, reducing factual alignment and completeness."
+    },
+    "1950663124455141544": {
+        "functional_errors": 5,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note deflects to \u201csatire\u201d rather than addressing the core misidentification (Logan Paul vs Barron Trump) and omits the engagement-farming context; its lone source is irrelevant."
+    },
+    "1938339331443233257": {
+        "functional_errors": 2,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note addresses a different claim (primary vs general election) and ignores the tweet\u2019s incorrect statement about Mamdani serving only one term. Source link is also low-quality/unverifiable (share.google)."
+    },
+    "1930790856627245309": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note doesn\u2019t directly verify the key claim (whether the post is actually on Trump\u2019s Truth Social) and adds speculative/irrelevant commentary; it only loosely references the correct Truth Social page without clearly stating the post is absent."
+    },
+    "1959593404368933037": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note addresses the tweet\u2019s claim generally but provides no corrective facts or sources; it doesn\u2019t match the human note\u2019s specific evidence that Trump golfed today and regularly on weekends."
+    },
+    "1954992433592226297": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "Note adds unsupported framing about \u201csatire\u201d and media coverage disparities and doesn\u2019t directly correct the tweet\u2019s key implication that the photos are from DC \u201ctoday.\u201d It lacks reliable sources and omits the inauguration-specific context provided in the human note."
+    },
+    "1938392130277228622": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly corrects the tweet\u2019s math and matches the platform\u2019s example ($20k at $1M). However, it adds a questionable claim about NYC tax not being marginal and uses a less-transparent Google Drive source; it also omits the 3.9%\u21925.9% bracket context from the human note."
+    },
+    "1935711612029239350": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note misidentifies the context and shifts to a different claim about a nationwide plan, contradicting the human note that the clip is from an Aug 2024 Nevada-specific Q&A; the cited source does not support the stated date or framing."
+    },
+    "1932076075355455704": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note is readable and has working links, but it shifts to broad immigration history and adds unsupported claims (e.g., \u201cmass migration\u201d in the 1960s) while omitting the key Watts Riots details and the reference source."
+    },
+    "1964333038608773130": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Clear and correctly fixes the key misidentification (Moore is governor, not mayor) with a working source, but it omits the central context from the reference note about the McLaren video being tied to a Maryland jobs announcement."
+    },
+    "1921937826305786004": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear and relevant correction that a 747-8 is a Boeing (U.S.-made) aircraft, but it relies on a weaker source (Wikipedia) and doesn\u2019t match the human note\u2019s specific Everett, WA production detail."
+    },
+    "1933559519575224641": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Directly corrects the tweet\u2019s false attribution and casualty figure with accurate, well-sourced context. Clear, neutral, and fully addresses the core claim."
+    },
+    "1963017828346347921": {
+        "functional_errors": 1,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is misaligned with the reference note (Clinton impeachment) and adds unsupported claims about \u201cEpstein files\u201d without any reliable sources, while also including meta-commentary and a non-source URL."
+    },
+    "1955955506503147616": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Clear and mostly well-formed, but it only partially matches the reference facts and omits key context (Congressmen/Chris Hansen/awareness work). Sources differ from the human note and may not substantiate all claims as stated."
+    },
+    "1959411433294143929": {
+        "functional_errors": 3,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note dismisses the post as satire and provides no relevant constitutional context; it fails to address the implied claim about Trump serving as VP and cites only the tweet link."
+    },
+    "1933980255351394792": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Clear and well-formatted, and it addresses the implication that Dallas is \u201cdeep red\u201d by giving voting results. However it adds extra, potentially imprecise percentages and relies on Wikipedia for long-term political claims, making factual alignment with the reference note weaker."
+    },
+    "1957781885154701697": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note generally addresses the \u2018outed\u2019 claim but lacks the key context from the human note (Fox\u2019s public engagement announcement) and relies on an X post rather than a reliable source supporting the factual rebuttal."
+    },
+    "1958126148711514352": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note largely repeats the tweet and introduces an unsupported claim about an \u201cevent timeline,\u201d using an opaque t.co link. It fails to address the key context from the human note that the booth should have been open on Day 1."
+    },
+    "1961092407325339709": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note is meta and unsourced (no URLs) and doesn\u2019t mirror the reference note\u2019s key context about Swift\u2019s documented Democratic support; it reframes the claim rather than addressing it with verifiable evidence."
+    },
+    "1937230356371198347": {
+        "functional_errors": 5,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The note is readable and sourced, but it shifts focus to Afghanistan/Taliban and doesn\u2019t address the tweet\u2019s claim about attacks on US bases during Biden\u2019s term, omitting the key post\u2013Oct 7, 2023 base-attack context in the human note."
+    },
+    "1947474446161482091": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note correctly counters the tweet\u2019s core claim that the video is from Bournemouth, but it introduces incorrect/unsupported details (date and \u2018Community notes confirm\u2019) and doesn\u2019t provide usable citations, reducing reliability and usefulness."
+    },
+    "1949635406942658750": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Addresses the core math that $1M per American would be hundreds of trillions, far above Musk\u2019s wealth, but includes an unsupported \u201cparody\u201d claim (NNN) and uses a different population/source than the reference note."
+    },
+    "1954586919683162602": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Clear and usable note that matches the referenced debunk (satire origin; no evidence of arrest) and cites Snopes. Slight misalignment risk because the tweet text alone lacks the specific AOC-brother claim, and the second source is less directly supportive than Snopes."
+    },
+    "1927424381283639592": {
+        "functional_errors": 2,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note misses the key context (NBACentel satire/hoax) and provides unsupported, vague claims with an irrelevant source, making it unhelpful for verifying the tweet."
+    },
+    "1962617458319335799": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses authenticity but introduces an unsupported distinction (\u201cAI-enhanced/upscaled\u201d) and uses weak/irrelevant sources. It misses the specific AI-generation tells cited in the human note and is not very helpful for verifying the image."
+    },
+    "1961495519923953877": {
+        "functional_errors": 3,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s claim and includes the key Biden assault-rifle-ban call, but adds some questionable/unclear extras (broken t.co, vague YouTube, and an odd \u2018fewer than after\u2019 phrasing) that reduce reliability and cleanliness."
+    },
+    "1923039354638774742": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note addresses the tweet\u2019s core insinuation and clarifies it\u2019s a cultural performance, but it lacks the specific context (Al-Ayyala/na\u2019ash meaning) and uses an unhelpful t.co link that may not substantiate the claims."
+    },
+    "1934408710337781878": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The note loosely challenges the video but misidentifies the issue and provides only a single, partly relevant source, omitting key runway-length and aircraft-type facts needed to assess the claim."
+    },
+    "1919801299387686975": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "The note appropriately addresses that the clip is likely AI-generated, but it\u2019s less definitive than the reference note and relies on a lower-quality, single-source claim rather than clearly stating Trump never said it."
+    },
+    "1935463675663630696": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s claim by explaining the temporary removal was an automated impersonation flag and that the account was reinstated. Sources are usable, though it doesn\u2019t cite the same clarification source as the reference and the \u201crules, not free speech policies\u201d phrasing is a bit interpretive."
+    },
+    "1941487780963746135": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Addresses the general \u201cweather is fake\u201d claim and provides relevant flood context, but shifts to cloud-seeding and adds tangential Trump coverage while omitting key verified details and broader hurricane/NOAA evidence in the reference note."
+    },
+    "1957290578992906618": {
+        "functional_errors": 2,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note misses the actual context (the photo is from Jan. 6 and shows an escape hood used at Capitol Police direction) and instead restates her candidacy, adds meta commentary, and provides an unsupported/irrelevant claim about Jan. 6."
+    },
+    "1935721657207046177": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s claim by noting ICE was denied entry and agents were outside, aligning with the reference. Some added details (CBP transfer/Home Depot arrest) go beyond the human note and may not be necessary or fully substantiated by the provided links."
+    },
+    "1940496608098963609": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "Well-formatted, but it contradicts the reference note by asserting the bill allowed \u201cunlimited borrowing\u201d and focuses on raising the debt limit rather than the key context that the bill included spending cuts; overall it reinforces the tweet\u2019s framing instead of adding corrective context."
+    },
+    "1944078534575567296": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note broadly targets the claim that Penrith was a Labour stronghold, but it introduces likely incorrect context (Labour winning in 2024) and cites a potentially wrong constituency page, omitting key boundary/constituency changes covered in the human note."
+    },
+    "1953817699651313672": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 3,
+        "overall_comment": "The AI note correctly targets the claim and states there\u2019s no verified evidence, but it cites a YouTube video rather than an authoritative source like official Trump/White House records, reducing verifiability and helpfulness."
+    },
+    "1963261833315299680": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses the tweet\u2019s implication but omits the key context that both Clinton and Trump were mentioned only as people Epstein knew, not as accused abusers. It also cites an X post instead of the original video source, reducing verifiability."
+    },
+    "1920086263345873129": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses the tweet\u2019s implication but misses the key context that these are typically single-occupancy/unisex restrooms. The cited dictionary link is weak and doesn\u2019t substantiate the specific restroom usage claims, reducing usefulness."
+    },
+    "1930402112749613189": {
+        "functional_errors": 3,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note largely restates the tweet and adds meta commentary about needing verification, but provides no corrective context or reliable sources addressing the $1.98 gas claim."
+    },
+    "1944093151364362314": {
+        "functional_errors": 4,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note fails to address the tweet\u2019s core claim about disability benefits and working, instead speculating about \u201cbait\u201d and citing an unrelated X post. It provides no relevant SSI/disability context or authoritative sourcing."
+    },
+    "1950319423455449364": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 1,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "It addresses the tariff-incidence claim but reverses who is paying (talks about an EU tariff on U.S. goods) and uses low-quality/unclear links, so the key correction in the human note isn\u2019t reliably conveyed."
+    },
+    "1921059060851294603": {
+        "functional_errors": 3,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Accurately addresses the tweet\u2019s core false claim that the bill is already law and cites Congress.gov. However, it includes irrelevant metadata (\u201cPublished\u2026\u201d and a \u201cHelpfulness Score\u201d), which reduces note quality."
+    },
+    "1927823686913913255": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Directly corrects the tweet\u2019s \u201cpardoned\u201d claim with a clear explanation and a solid source; minor over-specificity about the murder/year and pardon limits compared to the reference note."
+    },
+    "1928587517365780774": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "Targets the tweet\u2019s claim that the cosplayer is Japanese, but misstates key facts (event location and heritage) and cites weaker sources that don\u2019t clearly verify the needed context; omits the human note\u2019s crucial detail that the convention was in Jakarta (Comifuro)."
+    },
+    "1935081419694596220": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Concise and directly addresses the implied claim that the image shows a real Truth Social post; provides the same key fact and source as the human note, though it omits explicitly stating the image is fake."
+    },
+    "1950776467610017945": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is largely misaligned with the reference context (Balochistan minerals/consent concerns) and introduces unrelated/unsupported claims about Trump\u2019s motives and Pakistan\u2019s government legitimacy, with vague citations."
+    },
+    "1960007338049352039": {
+        "functional_errors": 5,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "Clear and well-formatted, but it misses the key legal context: Congress must create criminal penalties and Supreme Court precedent protects flag burning as First Amendment speech. It also relies on a single asserted White House link rather than the core constitutional/legal sources."
+    },
+    "1936935184042962981": {
+        "functional_errors": 5,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note is readable and cites a source, but it doesn\u2019t address the key point in the reference note (bail hearing date and continued federal custody) and instead shifts to an ICE-hold distinction, leaving the main claim/context unverified."
+    },
+    "1946816217634787795": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Accurately addresses the tweet\u2019s claim, matches the human note\u2019s facts, and cites a direct primary source with clear, neutral wording."
+    },
+    "1933665638649663655": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s claim and correctly notes the U.S. Embassy is in Jerusalem, but adds an unneeded/less-reliable Wikipedia claim about a Tel Aviv branch and the Politifact link is not clearly relevant to this specific incident."
+    },
+    "1944777413524701413": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Addresses the implied claim about a specific official\u2019s birthplace but adds inaccuracies (he is not a U.S. Representative) and overgeneralizes constitutional requirements; sources include Wikipedia and include extra, potentially misleading context."
+    },
+    "1959996650950480355": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the claim by noting flag burning is protected speech and an EO can\u2019t override the First Amendment, but adds potentially unsupported specifics about \u201cinciting violence/Brandenburg\u201d and relies on a questionable White House link for a 2025 EO."
+    },
+    "1956318974175539585": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Accurately addresses the tweet\u2019s implication that Whitmer \u2018outed\u2019 her daughter by noting she was already publicly out since July 2022, with a relevant supporting source and clear wording."
+    },
+    "1919542906152747322": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The AI note addresses the core implication about the Fifth Amendment but diverges from the human note\u2019s key debunks (fake judge identity/no such ruling) and adds a likely incorrect/overstated legal claim not supported by the cited case."
+    },
+    "1961191925677236694": {
+        "functional_errors": 4,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note fails to address the tweet\u2019s core claim about Aaron Paul\u2019s age and instead discusses irrelevant plot details. It provides no corrective birthdate/age info and cites an unrelated, low-quality source."
+    },
+    "1934283885145378992": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "Addresses the tweet\u2019s implied claim that Swift hasn\u2019t shown courage by noting her advocacy, but it lacks usable citations (no URLs) and adds questionable/unsupported specifics (e.g., threats from Elon Musk, reproductive rights)."
+    },
+    "1945510369230729458": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 2,
+        "overall_comment": "The note targets the right claim (Powell hasn\u2019t been fired) but uses placeholder/non-functional sources and adds an unsupported interpretation about \u201cdesire for his removal,\u201d reducing verifiability and usefulness."
+    },
+    "1957195952579883316": {
+        "functional_errors": 5,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The AI note is readable and cites a URL, but it shifts from identifying the footage as Battlefield 2042 to alleging content theft/edits, which isn\u2019t supported by the reference note and omits key verifying details (UI compass mismatch and BF6 beta plane limits)."
+    },
+    "1957935370395402663": {
+        "functional_errors": 4,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note contradicts the reference note and introduces new, unsupported claims about vote manipulation and investigations, relying on low-quality/advocacy sources rather than addressing the specific NSA \u201caudit\u201d Substack claim."
+    },
+    "1929622597324472792": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the $1M-to-McConnell claim and gives the key corrective figure, but omits the broader context about Cawthon\u2019s total donations and uses a weaker second source (a tweet) instead of the FEC link."
+    },
+    "1921635829656506465": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note directly addresses the tweet\u2019s claim, but introduces likely incorrect details (e.g., naming Bush and counting/attributing suspensions) and lacks precise, verifiable sourcing matching the reference."
+    },
+    "1932838437851394184": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Directly corrects the tweet\u2019s implication by specifying the namesake is Medal of Honor recipient MSG Gary Gordon, not the Confederate general, and provides a relevant official source."
+    },
+    "1951856175466565714": {
+        "functional_errors": 1,
+        "claim_alignment": 3,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note uses placeholder/broken sources and shifts from the human note\u2019s key context (US/EU also buying Russian energy) to India\u2019s UN stance. It lacks the crucial comparative import facts and provides unverifiable claims."
+    },
+    "1945209117020246510": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note shifts focus from the key context (Mace posting this after voting against Epstein file release) and introduces dubious/unsupported specifics (crypto bill rider, procedural tactics) without matching the cited human source."
+    },
+    "1963093030811877861": {
+        "functional_errors": 1,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is vague, misidentifies the context (mentions 2025 and \u2018White House meeting\u2019), and uses an unusable Google search URL instead of relevant sources. It fails to address the actual image/tweet claim tied to the 2017 House Freedom Caucus Obamacare meeting."
+    },
+    "1922299907911659789": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note misses the key context that Congress authorized acceptance in 1877 and wrongly characterizes the resolution as non-binding; its source is not relevant to the Statue of Liberty acceptance."
+    },
+    "1938102809284776136": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note misses the key issue that the linked video is AI-generated and depicts events that never happened, and instead makes unsupported claims about \u201cstability metrics.\u201d It is poorly sourced and not aligned with the human note\u2019s core context."
+    },
+    "1933167625770504700": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note addresses the core claim (that Rand Paul was disinvited) and provides a relevant link, but it doesn\u2019t match the reference note\u2019s key fact (Trump confirmed Paul is invited) and relies on a Rand Paul tweet rather than the cited Trump confirmation."
+    },
+    "1930786780577501332": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The note is vague and poorly sourced (no verifiable URLs) and misses the key context from nonpartisan scoring that the package increases deficits by $2T\u2013$3T+. It partially engages the claim but omits the central debt/deficit impact highlighted in the human note."
+    },
+    "1957412666219061486": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note misidentifies the core issue (photo context) and provides an unrelated WSJ link; it fails to state the key facts from the human note and adds speculative framing, making it weak and not well-supported."
+    },
+    "1940178981778857998": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "Targets the general claim but provides vague, partially unsupported assertions and no working URLs. It omits the key context from the reference note (Ukraine/Russia and Israel/Hamas still ongoing) and uses questionable sourcing."
+    },
+    "1951083043445526893": {
+        "functional_errors": 5,
+        "claim_alignment": 3,
+        "fact_alignment": 1,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note is readable and sourced, but it contradicts the reference note\u2019s key context about today\u2019s higher home price-to-income ratio and instead asserts prices are flat, making it misleading and poorly aligned with the needed affordability context."
+    },
+    "1937029724737249331": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 1,
+        "completeness": 2,
+        "helpfulness": 1,
+        "overall_comment": "The AI note contradicts the human note by repeating the tweet\u2019s story and adds unsupported details; its source is just the tweet link, not independent evidence, making it largely unhelpful."
+    },
+    "1931255532263780680": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note shifts to questioning the video\u2019s authenticity and WS-15/J-20 context instead of addressing the tweet\u2019s key claim that WS-21 is the world\u2019s most powerful jet engine. It omits the GE9X thrust comparison and relies on an unverifiable t.co link."
+    },
+    "1931029976033149423": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Readable and on-topic, but it misses the key context from the reference note that she already voted for the bill; it instead focuses on her later criticism and a general description of the provisions."
+    },
+    "1925259362869575748": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note addresses the tweet\u2019s deficit-reduction claim but uses different (and seemingly incorrect) deficit estimates and cites only a t.co link plus grok.com, which are not adequate or verifiable sources for the stated figures."
+    },
+    "1952421600764035159": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Well-written and directly addresses the MAGA-supporter claim with a strong source, but it omits other key context from the human note (multiple anti-Trump indications and that he\u2019s not a US voter)."
+    },
+    "1961820634440253600": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note invents specific game details and adds unrelated claims about Corso\u2019s historical accuracy, which don\u2019t align with the human note\u2019s simple rebuttal. It\u2019s largely unsupported/misaligned and not helpful for evaluating the tweet\u2019s vague claim."
+    },
+    "1951371388415250929": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note mostly reframes the discussion and adds tangential links; it does not address the key context from the reference note about existing parental controls and uses sources that don\u2019t substantiate the needed facts."
+    },
+    "1963232393676128643": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note partially engages the claim about Massie\u2019s prior Epstein-related demands, but adds biased/unsupported framing (\u201canti-Trump Democrats,\u201d \u201cslanderous signs\u201d) and doesn\u2019t clearly establish the key timeline facts shown in the human note."
+    },
+    "1935874571938513147": {
+        "functional_errors": 5,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note is well-formed and links the right article, but it misstates the Guardian\u2019s reporting by implying officials considered a tactical nuclear strike, whereas the article says Trump was not considering it and it wasn\u2019t presented."
+    },
+    "1949610796125766054": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note partially corrects the tweet by indicating the action wasn\u2019t a July 2025 \u201cTrump DOJ\u201d event, but it adds questionable timeline details (e.g., concluding in Dec 2024) that don\u2019t align with the reference note and may not be supported by the cited sources."
+    },
+    "1940822800706818431": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, neutral, and directly refutes the tweet\u2019s core claim with a credible source. It omits the key context that the area is already native alligator habitat (included in the human note), but still provides sufficient corrective information."
+    },
+    "1935463474781421795": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Accurately addresses the tweet\u2019s implication of a ban by clarifying it was a temporary suspension that was lifted and the account is now verified, with relevant sources."
+    },
+    "1961090695269159077": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note reinforces the tweet\u2019s claim of UT\u2019s absence and adds unsupported distance/context, contradicting the reference note that UT is participating (wearing the green-ribbon Texas sticker)."
+    },
+    "1936054033808281893": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "It correctly targets the key issue (0.7\u20130.8% vs 7\u20138%), but introduces an annualization framing not in the human note and adds a weak/irrelevant WikiHow source rather than sticking to primary evidence."
+    },
+    "1941251628386148485": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear and usable, and it directly counters the key claim about China lacking wind farms. However, it adds broader assertions (cost-effectiveness/viability) without matching the reference note\u2019s scope or providing additional sourcing."
+    },
+    "1922976848935358715": {
+        "functional_errors": 2,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "AI note misidentifies the key context (account impersonation/confusion) and introduces unrelated, unsourced claims about Trump/Apple. It also uses a low-quality/broken citation and lacks the essential clarification from the human note."
+    },
+    "1956709946755551310": {
+        "functional_errors": 2,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 3,
+        "overall_comment": "The note correctly identifies the key issue (the clip is from 2018, not breaking), but it has functional problems (broken/truncated URLs and meta text) and cites sources that don\u2019t match the reference links, weakening verifiability."
+    },
+    "1947282523152638001": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note provides partial context about a username change but omits the key clarification that Biden has not died and lacks strong, corroborating sources matching the reference note."
+    },
+    "1949863220941857125": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "The note directly challenges the $25B-to-end-hunger claim and adds relevant spending context, but it diverges from the reference by adding unsourced figures (50M, $5/day) and uses sources that may not clearly substantiate the national $100B claim as stated."
+    },
+    "1942727142422503435": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear and usable note that identifies the source as unreliable, but it omits key context from the reference (fake news/joke content and example history) and relies on a single source."
+    },
+    "1944079308357873747": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note generally addresses the hacking/leak claim but relies on an irrelevant/weak source and omits key context from the human note (reporting that an official memo says no client list exists). As written, it\u2019s vague and under-sourced for Community Notes standards."
+    },
+    "1963392908658147384": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear, well-formatted, and mostly addresses the insinuation that Massie smiled at victims\u2019 testimony, but it misses the key clarification from Massie that the still was from an hour before the survivors spoke and tied to reporter banter."
+    },
+    "1960003506011598919": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note mostly restates Trump\u2019s claim and adds meta commentary, but omits the key context that Wes Moore denies the exchange and doesn\u2019t cite Moore\u2019s denial."
+    },
+    "1926010039082406136": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 2,
+        "overall_comment": "The note broadly addresses the claim about \u201cdenying relief,\u201d but it has major functional issues (no usable URLs) and introduces several unsourced or potentially inaccurate specifics (180 days, HUD $1.4B, DHS clarification), reducing reliability and usefulness."
+    },
+    "1960397997860381103": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note targets the tweet\u2019s claim but is under-sourced (no full URLs) and omits key context from the EO about civil commitment for some unhoused/mentally ill people and related disability-rights concerns."
+    },
+    "1943325201648804132": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Directly addresses the tweet\u2019s claim and is readable, but it provides only one concrete example and omits the other key cases cited in the human note; one source (YouTube) is weaker/unclear for verification."
+    },
+    "1947522484569280714": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the implied claim that McDonald\u2019s burgers must be from non-cow sources, but adds specific quantitative assertions (annual slaughter figure, burgers per cow, daily cows) that aren\u2019t supported by the provided source and omits the broader sourcing context cited in the human note."
+    },
+    "1959996866059448797": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Readable and sourced, but it shifts focus to First Amendment legality and adds an unsupported claim that the EO \u201ccontradicts\u201d SCOTUS, while missing the key context that the EO itself doesn\u2019t impose a 1-year jail penalty."
+    },
+    "1960793795433570326": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note addresses the tweet\u2019s identity claim, but contradicts the human note by asserting a manifesto and denying transgender identity, and cites only an unreliable single X post. It omits the key substantiated context that the shooter was not Jewish and had ties to the Catholic community."
+    },
+    "1940439197355311544": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, well-formatted, and directly rebuts the tweet\u2019s claim with relevant context and credible sources. Slightly less complete than the reference note because it omits the \u201csentencing is months away\u201d detail."
+    },
+    "1944922199283908824": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note adds some relevant context about Greene\u2019s actions but misstates the key vote/amendment details from the reference note and relies partly on a low-quality social post source, making it less accurate and incomplete."
+    },
+    "1949339475362173075": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses outsourcing-to-India claims but shifts to unsupported assertions about design flaws and India-sourced parts, and uses weak/possibly broken sourcing. It omits key context from the reference note about Indian-made SIG rifles vs US-made pistols."
+    },
+    "1943755833441235096": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Clear and well-formatted, and it correctly clarifies this was a monthly (not annual) surplus. However, it adds extra claims (April 2025 \u2018last surplus\u2019, >$1T deficit) that aren\u2019t in the human note and may not be necessary for this tweet."
+    },
+    "1957866391685722383": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s added \u201cWhite\u201d claim and cites the same source, but omits the human note\u2019s additional specifics (antisemitism/terror support) and includes a slightly meta concluding sentence."
+    },
+    "1961395731127734618": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 3,
+        "overall_comment": "The note generally addresses the claim by explaining the standard 6\u2011month limit and possibility of extensions, but includes potentially unsupported specifics (Biden extension, Pence/Biden examples) and a low-quality/irrelevant Grok link, reducing reliability."
+    },
+    "1956124399444107465": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear, well-formatted, and sourced, but it misses the key context from the reference note (Landry administration and the $3B scale) and adds extra detail not essential to evaluating the tweet\u2019s claim."
+    },
+    "1949171065625641465": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note correctly targets and refutes the central claim that Trump pardoned Maxwell, but it omits key context from the reference (limited DOJ immunity and Trump saying he hasn\u2019t considered clemency) and relies on a weaker/less directly relevant source."
+    },
+    "1959953530007048692": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Clearly cites Texas v. Johnson and notes First Amendment protection, but it misses the key context that an executive order cannot override Supreme Court precedent and adds an unverified White House link/claim about using other statutes."
+    },
+    "1920999438639624225": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "It correctly states that \u201cneocon\u201d refers to neoconservatism rather than a slur, but it adds an irrelevant Witkoff anecdote and cites a source that doesn\u2019t substantiate the definition or the claim about the term\u2019s meaning."
+    },
+    "1945549074578411915": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note largely repeats the tweet\u2019s claim instead of correcting it, omits the key campaign statement cited in the human note, and adds unsupported/likely incorrect assertions about declassification orders and other figures, making it not reliable or helpful."
+    },
+    "1946599039677366375": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note speculates about satire and political context instead of addressing the key point that the shared image is AI-generated (e.g., the seal). Its sources don\u2019t substantiate the image-manipulation claim and it omits the core verification detail."
+    },
+    "1934754134458044677": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note addresses the tweet\u2019s implication that current footage shows a Trump-driven evacuation, but it diverges from the key verified context (BBC source/date) and relies on weaker, less direct evidence (Google Maps/other tweets)."
+    },
+    "1935449564175094100": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Accurately clarifies that only the 988 \u201cpress 3\u201d/Trevor Project routing is ending, not suicide hotline access overall, and cites strong sources. Slightly less complete than the reference because it omits the Trevor Project\u2019s phone number."
+    },
+    "1931132558936260629": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note addresses the arrest claim but lacks proper, working citations and diverges from the key context in the human note (Italian citizenship/ICE listing not the same person), making it only moderately helpful."
+    },
+    "1958802253013557506": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, neutral, and directly addresses the implied quote claim with a strong Reuters fact-check link. Slightly less complete than the reference because it omits the debunking history/timeline noted by Snopes."
+    },
+    "1961152721492562010": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Readable and sourced, but it shifts from the tweet\u2019s core \u201cUS dollars fund discounted Russian crude\u201d framing to side claims (payment currencies, US-India exports, US-Russia trade). It also misses the human note\u2019s key context about broader buyers of Russian energy and includes weaker/less-relevant sources."
+    },
+    "1927511153816588758": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear, well-formatted note that directly refutes the 51st-state claim, but it omits the key context from the reference note that Canada has discussed Golden Dome participation (not statehood), and relies on different sources."
+    },
+    "1958190589318455309": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note doesn\u2019t directly address the tweet\u2019s claim about Patriot Front activity continuing after USAID changes, and it lacks the specific, relevant march examples and sources provided in the human note."
+    },
+    "1950285280704971087": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note misses the key issue (the video is digitally altered/edited) and instead focuses on the person being deceased, with placeholders and sources that don\u2019t substantiate the human note\u2019s specific claim."
+    },
+    "1937596031174103338": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Targets the tweet\u2019s claim and provides relevant context, but relies on a single X post rather than the poll/report sources in the human note, making key popularity claims weakly supported."
+    },
+    "1939772328298127494": {
+        "functional_errors": 2,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is not a proper Community Note: it dismisses the relevant context, adds unsupported commentary, and provides no verifiable correction (only a t.co link) instead of noting the video is from 2022 under Biden."
+    },
+    "1961461665725030644": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "The note correctly addresses the core claim by explaining the statutory 6\u2011month limit for former VPs\u2019 protection and provides relevant sourcing. However, it diverges from the reference by citing a different authority than the specific 2008 Act and adds an unsupported/uncertain claim about Pence\u2019s protection being revoked."
+    },
+    "1961365876956967319": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly rebuts the tweet\u2019s claim with the key Biden quote and a strong source (BBC). Slightly less aligned with the reference by broadening to \u201cliberals\u201d and adding extra, lower-value sources."
+    },
+    "1959737491692331246": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Directly addresses the tweet\u2019s misleading implication by clarifying the quote is from 2023 and not tied to current deployments. Well-written and sourced, though it doesn\u2019t include the specific Politico/C-SPAN references used in the human note."
+    },
+    "1923490235712700797": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note generally targets the escort claim but misses the key context that the image is from April 2018, and it cites only the tweet link rather than a verifying source, making its factual support weak."
+    },
+    "1945107149740204169": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s claim by noting inflation increased from May to June with credible sources. Adds an extra, less-supported assertion about tariffs and omits the MoM/core CPI detail included in the human note."
+    },
+    "1960122275669409817": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Clear and well-formatted, and it addresses the core implication that the arrest was due to Trump\u2019s order. However, it adds an unsupported claim about the EO not mandating a one-year sentence and doesn\u2019t directly cite reporting about this specific arrest."
+    },
+    "1917746419093458953": {
+        "functional_errors": 5,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note largely reinforces the tweet\u2019s claim instead of correcting it, and contradicts the human note that Tesla/board/Musk denied the report. It omits the key refutation sources and adds unsupported/unclear context."
+    },
+    "1937243985770070490": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note repeats and reinforces the tweet\u2019s disputed claim instead of correcting it, contradicting the referenced Reuters reporting that no missiles hit the base. It omits the key corrective context and relies on a source that doesn\u2019t align with the human note\u2019s core facts."
+    },
+    "1939391220096352415": {
+        "functional_errors": 2,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note introduces unrelated/unsupported specifics (e.g., \u201cBig Beautiful Bill,\u201d authoritarian powers) and relies on weak/irrelevant sourcing (including a truncated X link and commentary about Grok). It does not match the human note\u2019s key context that this is a recurring viral false graphic addressed by FactCheck.org."
+    },
+    "1919438147840065614": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses that the video is from Basel Fasnacht, not an anti-Trump protest, and provides sources. However, added framing about \u201csocietal division/rifts\u201d isn\u2019t in the reference note and may be weakly supported, reducing factual alignment."
+    },
+    "1945253463790637350": {
+        "functional_errors": 2,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note largely repeats and reinforces the tweet\u2019s framing, omits the key context that Republicans blocked both the amendment and the procedural step enabling a vote, and uses an unverifiable t.co link; it is misleading and not suitable as a Community Note."
+    },
+    "1930570983661850699": {
+        "functional_errors": 3,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Targets the tweet\u2019s implied endorsement claim well and mostly matches the reference context, but includes unnecessary argumentative commentary and an overly specific/possibly unstable NYT unlocked URL parameter."
+    },
+    "1934610482243027174": {
+        "functional_errors": 3,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "It addresses the tweet\u2019s core claim, but the cited \u201carchived tweets\u201d URLs are vague/non-verifiable and it adds editorial language about credibility/speculation instead of providing a solid archive source like the reference note."
+    },
+    "1938031068319273121": {
+        "functional_errors": 2,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note misidentifies the tweet\u2019s subject/claim and introduces unrelated assertions about Republicans and Trump. It omits the key context from the human note and provides an irrelevant source, making it not helpful."
+    },
+    "1955970869328838725": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note doesn\u2019t directly verify whether Trump posted it and relies on an unexpanded t.co link; it also introduces an unsupported \u201csatirical page\u201d claim and omits the key check of Trump\u2019s official account."
+    },
+    "1934413601227551201": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "The note generally addresses the key point that the screenshot/post isn\u2019t a real Trump TruthSocial post and provides relevant links, but adds unnecessary editorializing and an unverifiable example quote that isn\u2019t in the human note."
+    },
+    "1950752605233156400": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note largely echoes the tweet\u2019s framing and shifts to broader criticism of Sanders\u2019 votes, missing the key context that the clip is the start of a speech opposing Gaza atrocities and advocating to stop weapons sales. Sources are partisan/misaligned and don\u2019t substantiate the needed claim about the full speech."
+    },
+    "1954242669150171404": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s firing-for-refusal claim and provides relevant context that there\u2019s no evidence for it and that Long is being moved to an Iceland ambassador role. Slight mismatch with the reference note\u2019s specific source/details, and the NYT link may be paywalled."
+    },
+    "1959282686452699400": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note shifts from the key context (fianc\u00e9s aren\u2019t subject to disclosure rules) to unrelated allegations about listing him as a spouse, and it omits the central House ethics requirement needed to evaluate the tweet\u2019s claim."
+    },
+    "1929233132789604725": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Accurately frames the tweet as unverified and notes Fed independence, but lacks any supporting citation and is less direct/specific than the human note about the claim being fabricated."
+    },
+    "1959322151213044146": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note addresses the general veracity of the claim but misses the key context from the human note (the clip is ~4 years old) and cites an unreliable/non-evidentiary X link rather than a supporting source."
+    },
+    "1922636939036868950": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly corrects the tweet\u2019s main error (it was an Israeli IDF uniform, not Qatari) with relevant sources, though the added narrative context and an eBay link are unnecessary and slightly reduce note quality."
+    },
+    "1959476922725064866": {
+        "functional_errors": 3,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note correctly targets the tweet\u2019s claim but provides no sources and doesn\u2019t align with or incorporate the key contextual comparison used in the human note, making it weak and hard to verify."
+    },
+    "1937330983696797899": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Clear, neutral, and directly addresses the tweet\u2019s \u201cno ceasefire\u201d claim with the key timing context and a matching credible source."
+    },
+    "1937693516274237559": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Clear, neutral, and directly corrects the tweet\u2019s main implication by noting Mamdani only won the Democratic primary and the mayoral election is in November. Minor risk: the \"against incumbent Eric Adams\" detail may not be fully supported/settled in the cited sources."
+    },
+    "1961176145933598771": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Clear and well-formatted, and it directly addresses the fake cover claim with a relevant source. Slightly less complete than the reference note because it omits the staff-protest context and the second supporting link."
+    },
+    "1937497882497810722": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Directly addresses the tweet\u2019s claim and provides a relevant official denial with a working source. Minor mismatch with the reference note\u2019s exact link/ID reduces fact alignment slightly."
+    },
+    "1951410658567667919": {
+        "functional_errors": 5,
+        "claim_alignment": 3,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Clear and usable, but only partially addresses the tweet\u2019s claim about Trump seeking jail time and omits the key Supreme Court precedent (Texas v. Johnson) and constitutional-amendment context; it also conflates protest flag burning with ceremonial disposal guidance."
+    },
+    "1921247713145889202": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 2,
+        "overall_comment": "The note partially addresses the ceasefire-violation claim but adds unverified specifics (temple/civilians) and uses truncated placeholder URLs, reducing verifiability and usefulness."
+    },
+    "1955068164049359193": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Note correctly states Texas has no party registration, but pivots to 2024 election results and omits the key context that the referenced figures are unofficial L2 modeled estimates. Sources don\u2019t support the main clarification about where the figures come from."
+    },
+    "1950389526293008640": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note generally addresses the claim that the road was \u201cshut,\u201d but it diverges from the reference (which says it was open per Maui PD) by adding specific coordination/supervised-evacuation details that aren\u2019t in the human note and may not be supported. Sources are mixed quality and not aligned with the official Maui County alert used in the reference."
+    },
+    "1961786683600605370": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note addresses the rumor but misses the key corrective context from the human note (the video is old). It adds unsourced/overbroad assertions and uses different links that don\u2019t directly verify the video\u2019s upload date."
+    },
+    "1925645483961196931": {
+        "functional_errors": 3,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note shifts from the tweet\u2019s main verifiable claim (that Salazar never tweets in English) to broader rhetoric and geopolitics, and it omits the key corrective evidence. It also introduces unsupported/irrelevant claims with a low-quality, hard-to-verify source."
+    },
+    "1959998433554792912": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note mostly comments on other notes and claims lack of sources rather than addressing the tweet\u2019s core claim about prosecuting flag desecration. It omits the key legal context (Congress\u2019 role and 1st Amendment protections) and cites an irrelevant COVID-19 link."
+    },
+    "1944010398606168345": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "The AI note directly addresses the tweet\u2019s claim and provides largely aligned context that no BRICS currency launch is imminent. One cited X link appears non-official/unclear and it omits the India/PIB fact-check context used in the human note."
+    },
+    "1953864439444234374": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note is vague and includes unsupported/possibly incorrect claims (e.g., Modi averting a nuclear threat) and uses placeholder citations without URLs. It only partially addresses the tweet\u2019s claim and misses the key comparative context from the reference note about ongoing US/EU imports from Russia."
+    },
+    "1930070246880116738": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 5,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s claim and generally matches the reference note that due process applies to all persons, including non-citizens. Minor issues: adds vague/possibly irrelevant \u2018recent rulings\u2019 and an unclear Supreme Court PDF citation without explaining what it supports."
+    },
+    "1948104582325805085": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 4,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note is readable and includes the key Mannarino link, but it drifts into generic commentary and adds uncited claims (Mar-a-Lago context) while missing the human note\u2019s specific contradiction/context (Mannarino previously argued people on the list should be jailed)."
+    },
+    "1962544030891356174": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly rebuts the tweet\u2019s implication of broad independence/separation demand using the same vote breakdown, but cites Wikipedia instead of the official election results page and adds some unnecessary extra context."
+    },
+    "1931034096345444766": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s claim and is generally helpful, but the cited source appears mismatched to the specific vehicle-paint history and the timeline/details don\u2019t align as well with the reference note."
+    },
+    "1936148702177157502": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Targets the key issue (National Forests not exempted) but has broken/truncated source URLs and adds unsupported specifics (15 categories, <1%) and an unclear statute citation, reducing reliability."
+    },
+    "1937310015389573410": {
+        "functional_errors": 4,
+        "claim_alignment": 1,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note misrepresents the bill as \u201cexonerating\u201d the Taliban and provides no sourcing or relevant context (e.g., what H.R. 260 does, legality of direct funding, and that it still needs Senate/President). It fails to address the tweet\u2019s claim accurately or helpfully."
+    },
+    "1920386600128917957": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Accurately addresses the tweet\u2019s core claim that Price defied voters by switching party rooms, noting CLP affiliation and coalition flexibility. Minor issues: adds interpretive language (\u201cnot necessarily ambition\u201d) and uses a broader Wikipedia source instead of the more directly relevant CLP page cited in the reference."
+    },
+    "1951320671516070121": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note generally targets the \u201cending wars\u201d claim but is vague and relies on a single opinion link that doesn\u2019t clearly substantiate the specific examples cited in the helpful reference note. It omits the key documented escalations (Yemen strikes, arms to Israel/Ukraine, Iran bombing) needed to evaluate the claim."
+    },
+    "1933147366493753769": {
+        "functional_errors": 5,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note shifts to defending CBO accuracy and cites an unrelated WaPo analysis, failing to address the key issue that CBO didn\u2019t exist before 1974, so it can\u2019t have made 1930s/1960s projections. It\u2019s readable but largely misaligned and unsupported relative to the reference note."
+    },
+    "1948058645566038040": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 1,
+        "overall_comment": "The AI note is incomplete (placeholder [URL]) and fails to include the key context that many co-sponsors of the Epstein-files release bill are Republicans. It adds unsupported statements about lack of evidence and provides no reliable sourcing beyond the tweet\u2019s own video link."
+    },
+    "1929216306240164196": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The AI note correctly targets the core claim and notes lack of sourcing, but it is vague, adds irrelevant commentary about international law/behavior, and provides no citations like the human note."
+    },
+    "1955706127808913473": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note partly addresses the tweet but shifts focus to Excelsior Scholarship details and mis-sources/likely misstates the key Bernie Sanders clarification, omitting the authoritative Sanders post cited in the human note."
+    },
+    "1948062083578314955": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note broadly addresses the lack of evidence for the alleged private message, but relies on unverifiable/low-quality sources (shortened links, Grok) and omits the key context that the image is from a 2019 Obama speech in Germany."
+    },
+    "1961651085392642476": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The AI note focuses on the poster being a parody account and gives generic advice, but it misses the key context that the photo is old and from Jimmy Carter\u2019s death, so it doesn\u2019t address or support the main correction."
+    },
+    "1930944681770094594": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note generally challenges the claim that the bill isn\u2019t a spending/pork bill by pointing to deficit impacts, but several figures don\u2019t align with the reference note and aren\u2019t clearly supported by the single cited CRFB link."
+    },
+    "1954263914931183746": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, well-formatted note with a working DOJ source and facts consistent with the reference. Slightly less direct than the human note because it omits the specific finding that Brown attacked the officer, but it still provides key official context about the DOJ conclusion."
+    },
+    "1953917958805500075": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Addresses the tweet\u2019s broad \u201cUS peace-through-strength\u201d implication but only substantiates India-Pakistan and adds an Egypt-Ethiopia point not in the human note. Lacks coverage and sourcing for most listed conflicts, reducing completeness and overall usefulness."
+    },
+    "1960094956275552443": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Correctly notes Texas v. Johnson protects flag burning as First Amendment speech, but adds questionable/likely incorrect claims about a 2025 Executive Order and misstates the legal test, reducing reliability and usefulness."
+    },
+    "1940607370578805147": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Readable and on-topic for tips/overtime, but it inaccurately implies a full exemption rather than limited deductions and omits that the bill has no provision eliminating taxes on Social Security; sources are secondary and may not substantiate the precise statutory details."
+    },
+    "1945107733167866359": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 2,
+        "overall_comment": "Targets the core claim but is vague and includes placeholder/low-quality sources, plus unsupported assertions about rewrites and \u201clegal debates,\u201d making it less verifiable and less helpful than the human note."
+    },
+    "1922453970863231166": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note generally flags the claim as unconfirmed, but adds unsupported speculation about attendees facing scrutiny and cites an inappropriate/insufficient source (Wikipedia) instead of the indictment showing no such celebrity allegations."
+    },
+    "1924367188019793961": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note generally addresses the \u2018snub/no meeting\u2019 implication by stating a private audience occurred, but it introduces a likely incorrect day change (Monday vs Sunday) and omits key specifics from the reference (closed-door Vance+Rubio meeting ~45 minutes), making it less complete and somewhat less reliable."
+    },
+    "1939363086512619771": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Clear and usable note that questions the strike claim, but it only partially matches the reference: it doesn\u2019t explicitly state the image is of buildings near the Tabriz missile facility, and uses a different source than the human note."
+    },
+    "1932803997603152311": {
+        "functional_errors": 2,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note is partly on-topic but adds meta-commentary, relies on an unexpanded t.co link, and doesn\u2019t clearly substantiate the key point that the content is not from Trump (nor link to Trump\u2019s official account as the human note does)."
+    },
+    "1928078325668290965": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note targets the \u201clast remaining location\u201d claim but adds vague, likely unsourced/irrelevant statements (\u201cMinistry of Truth\u201d) and doesn\u2019t clearly cite or match the specific human-note fact (Prosperity City also stands with a verifiable link)."
+    },
+    "1953883863324774481": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, well-formatted note that directly refutes the tweet\u2019s cancellation claim with a relevant official source. Slightly less complete than the human note because it doesn\u2019t explicitly mention ABC has made no cancellation statement."
+    },
+    "1940533145998446811": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "The AI note matches the key point that HR1 adds a $6,000 senior deduction but does not exempt Social Security from tax. It adds an extra percentage claim not present in the reference and includes an irrelevant t.co link, but remains largely clear and useful."
+    },
+    "1944421473428324548": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note targets the tweet\u2019s core claim but relies on weak/unverifiable sources (Wikipedia and a g.co/gemini link) and omits key context from the reference note (e.g., lack of any announced investigation/grand jury and relevant official reports)."
+    },
+    "1946015682262421888": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note targets the correct claim (whether Trump ever used \u201cenigma\u201d) but relies on weak/poorly verifiable sources (Grok share, Perplexity, random X post) and omits the key documented 2015 rally/transcript evidence used in the human note."
+    },
+    "1958333241154314574": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note generally counters the tweet\u2019s implication that Collins agreed with an Asperger\u2019s claim, but it adds unrelated Alzheimer\u2019s detail and overstates what the exchange shows, reducing factual alignment and overall usefulness."
+    },
+    "1944876307281760759": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Accurately identifies the map as the 1984 Reagan\u2013Mondale election and explains why treating it as recent is misleading. Adds extra population-vs-state framing and a weak/unclear third source, but remains mostly usable and relevant."
+    },
+    "1933935396313862514": {
+        "functional_errors": 4,
+        "claim_alignment": 3,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The note partially connects the tweet to parliamentary debate but introduces unclear/possibly incorrect claims (e.g., Champion opposing a national inquiry) and relies on a social-media source rather than a strong corroborating reference, making it less aligned and less helpful than the human note."
+    },
+    "1956694004726120612": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "Well-formatted and generally relevant, but it shifts to \u201cclean water projects\u201d and doesn\u2019t clearly match the human note\u2019s key point that funds go to low-income US families; several sources may not directly support the specific claim."
+    },
+    "1933879882976522635": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "The note largely addresses the key claim (Hoffman didn\u2019t vote for the repeal; Hortman did), but adds extra, less-relevant context and a causal-link-to-shooting point not present in the human note. Some supporting links may not directly substantiate the specific voting claims made."
+    },
+    "1919744771397922941": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note generally addresses the core claim (Braun is not a likely \u201cfuture president\u201d), but it adds tangential, potentially unverifiable detail and makes an unsupported claim about \u201cno credible sources\u201d for the flag-burning, reducing factual alignment and usefulness."
+    },
+    "1932568694061687284": {
+        "functional_errors": 3,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "Targets the impersonation angle but contradicts the reference note by claiming Barron has no active X account and relies on a generic Google search link rather than a specific, verifiable source."
+    },
+    "1944065463123947694": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 5,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, neutral, and directly addresses the tweet\u2019s main claim with the same primary source as the human note. Slightly less complete because it omits that he said he was not summoned by anyone (broader than just Trump)."
+    },
+    "1934752003059839251": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Generally addresses the tweet\u2019s claim and links to the White House denial, but frames it as merely \u201cunverified\u201d rather than clearly noting the denial as false, and the duplicate/parameterized links add minor noise."
+    },
+    "1929188504350720458": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 3,
+        "helpfulness": 4,
+        "overall_comment": "Directly corrects the tweet\u2019s claim and cites a relevant Axios reporter source, but omits key context that Axios initially misstated it and later updated the article."
+    },
+    "1963258205204537635": {
+        "functional_errors": 4,
+        "claim_alignment": 4,
+        "fact_alignment": 1,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The note targets the general claim about lack of effort, but it contradicts the reference note by asserting Massie did not act during Biden\u2019s term and provides no sources. It also adds editorial commentary about politicizing victims rather than supplying the key factual correction."
+    },
+    "1958910133502701958": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 2,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "The note correctly identifies the core issue (images aren\u2019t from a Bolton raid), but it misstates key facts (timing of the Mar-a-Lago raid and unsupported claim about charges being dropped) and provides only one source that doesn\u2019t substantiate all assertions."
+    },
+    "1921238763952373799": {
+        "functional_errors": 4,
+        "claim_alignment": 2,
+        "fact_alignment": 2,
+        "completeness": 2,
+        "helpfulness": 2,
+        "overall_comment": "The AI note shifts to broader conflict details and adds unverified/extra claims (e.g., India destroying multiple airbases, Trump\u2019s role) instead of addressing that Robertson was relaying Pakistan\u2019s claims. It misses the key context in the human note and is only weakly supported by the provided source."
+    },
+    "1940841323810246815": {
+        "functional_errors": 5,
+        "claim_alignment": 4,
+        "fact_alignment": 3,
+        "completeness": 3,
+        "helpfulness": 3,
+        "overall_comment": "Clear and mostly on-claim, but it introduces Medicaid/SNAP assertions not supported by the reference and uses a source about parliamentarian changes rather than the bill text, weakening factual alignment and completeness."
+    },
+    "1942971218199802245": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the claim that invoking the Fifth implies guilt and cites a relevant source, but adds a specific Trump example that is unnecessary and narrower than the broader constitutional context in the human note."
+    },
+    "1935085527742427526": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 5,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s main errors (wrong role and lack of evidence for resignation threat) and adds relevant context, but relies partly on weaker sourcing (Wikipedia) and an unverified Politico link for the \u201cno evidence\u201d claim."
+    },
+    "1962954336410935430": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 5,
+        "helpfulness": 5,
+        "overall_comment": "Directly addresses the tweet\u2019s implication of a Wikipedia change by pointing to the page and edit history; sources are relevant and the note is clear. Minor overreach with the general claim about vandalism being swiftly reverted, which isn\u2019t necessary to verify the specific edit claim."
+    },
+    "1920461454370541828": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 4,
+        "helpfulness": 3,
+        "overall_comment": "The note correctly clarifies the removal happened in Feb 2023, addressing the tweet\u2019s implied recency. However, it adds extra attribution/context not in the reference and relies on a YouTube link rather than a strong, clearly supporting news source."
+    },
+    "1949205463427670198": {
+        "functional_errors": 4,
+        "claim_alignment": 5,
+        "fact_alignment": 3,
+        "completeness": 2,
+        "helpfulness": 3,
+        "overall_comment": "The note directly addresses the tweet\u2019s key claim that Waterloo is \u201cdeep-red,\u201d but relies on weaker sources and omits the stronger, specific voter-registration and election-result context used in the human note."
+    },
+    "1952728196916363749": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 5,
+        "overall_comment": "Clear, well-written note that directly addresses the tweet\u2019s arrest/treason claim and points to a credible fact-check. Slightly less aligned with the reference because it doesn\u2019t cite Real Raw News\u2019 satire disclaimer or examples of prior false claims."
+    },
+    "1929866035164795163": {
+        "functional_errors": 5,
+        "claim_alignment": 5,
+        "fact_alignment": 4,
+        "completeness": 4,
+        "helpfulness": 4,
+        "overall_comment": "Directly addresses the tweet\u2019s incorrect claim about who pays tariffs and provides a relevant source. Slightly oversimplifies by saying consumers pay (importers pay first, costs often passed on) and is less detailed than the reference note."
+    },
+    "1962975559396557195": {
+        "functional_errors": 2,
+        "claim_alignment": 4,
+        "fact_alignment": 2,
+        "completeness": 1,
+        "helpfulness": 2,
+        "overall_comment": "The note addresses the general claim but lacks proper sourcing (uses a placeholder URL) and omits key context from the reference note (that the footage is of Washington, D.C., and no deployment has occurred yet)."
+    }
+}

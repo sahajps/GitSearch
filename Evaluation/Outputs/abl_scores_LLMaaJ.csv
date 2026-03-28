@@ -1,0 +1,5 @@
+method,functional_errors,claim_alignment,fact_alignment,completeness,helpfulness
+our_gpt-5-nano_T2_without_context,4.238,3.578,2.565,2.623,3.049
+our_gpt-5-nano_T2_with_context,4.291,3.743,2.732,2.826,3.219
+our_gemini-2.5-flash_T2_without_context,4.486,3.568,2.532,2.605,2.991
+our_gemini-2.5-flash_T2_with_context,4.47,3.89,2.807,2.86,3.216
